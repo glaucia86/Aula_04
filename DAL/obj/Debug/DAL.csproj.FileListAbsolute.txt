@@ -1,0 +1,5 @@
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\DAL\bin\Debug\DAL.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\DAL\bin\Debug\DAL.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\DAL\obj\Debug\DAL.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\DAL\obj\Debug\DAL.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\bin\Debug\Projeto.exe
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\obj\Debug\Projeto.exe
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\bin\Debug\DAL.dll
+C:\Users\Glaucia\Documents\Visual Studio 2012\Projects\Exemplos Curso - Coti Informatica 2014\Aula_04\Projeto\bin\Debug\DAL.pdb
